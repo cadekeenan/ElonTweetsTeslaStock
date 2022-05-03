@@ -40,4 +40,9 @@ Give credit here.
 
 
 ## Contact
-Created by [@cadekeenan] (https://www.flynerd.pl/) - feel free to contact me!
+Created by [@cadekeenan] 
+Created by [@immcsorley]
+Created by [@immcsorley]
+Created by [@immcsorley]
+
+(www.https://github.com/cadekeenan/ElonTweetsTeslaStock - feel free to contact me!
