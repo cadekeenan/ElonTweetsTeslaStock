@@ -31,10 +31,7 @@ Is there a specific relationship between Elon Musk’s tweets and the stock pric
 - RStudio - v2022.02.2+485
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage 
 
 ## Acknowledgements
 - Many thanks to our Prof Mike Colbert for his technical assists during this project, as well as Elon Musk for providing the Tweets.
