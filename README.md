@@ -36,7 +36,7 @@ Provide various use cases and code examples here.
 Give credit here.
 - This project was inspired by 
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to 
+- Many thanks to our Prof Mike Colbert for his technical assists during this project
 
 
 ## Contact
@@ -45,4 +45,4 @@ Created by [@immcsorley]
 Created by [@immcsorley]
 Created by [@immcsorley]
 
-(www.https://github.com/cadekeenan/ElonTweetsTeslaStock - feel free to contact me!
+(https://cadekeenan.me/pages-contact-me-v1.html) - feel free to contact me!
