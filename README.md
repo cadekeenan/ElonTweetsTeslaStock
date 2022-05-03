@@ -23,7 +23,7 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 
 - What are the most used words that Elon tweets that causes stock price to drastically change the most? 
 
-Is there a specific relationship between Elon Musk’s tweets and the stock price? 
+- Is there a specific relationship between Elon Musk’s tweets and the stock price? 
 
 
 ## Technologies Used
