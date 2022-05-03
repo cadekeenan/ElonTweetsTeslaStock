@@ -31,13 +31,13 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 - RStudio - v2022.02.2+485
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot.png) <br>
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Usage
 See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
-**MUST HAVE TSLA.csv DOWNLOADED**
+**TSLA.CSV _________
 
 ## Acknowledgements
 - Many thanks to our Prof Mike Colbert for his technical assists during this project, as well as Elon Musk for providing the Tweets.
