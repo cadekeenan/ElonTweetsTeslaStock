@@ -23,21 +23,21 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- R - v2022.02.2+485
+- RStudio - v2022.02.2+485
 
 ## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
+
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by 
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to 
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@cadekeenan] (https://www.flynerd.pl/) - feel free to contact me!
