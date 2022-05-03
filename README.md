@@ -36,7 +36,8 @@ Is there a specific relationship between Elon Musk’s tweets and the stock pric
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Usage
-See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage 
+See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
+**MUST HAVE TSLA (2).csv DOWNLOADED**
 
 ## Acknowledgements
 - Many thanks to our Prof Mike Colbert for his technical assists during this project, as well as Elon Musk for providing the Tweets.
