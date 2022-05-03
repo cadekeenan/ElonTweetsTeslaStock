@@ -34,7 +34,17 @@ Provide various use cases and code examples here.
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by 
+- We want to know if there is a specific relationship between Elon’s tweets and the stock price of his company. If we are able to find a specific relationship, we can use that when buying/selling Tesla stock. We have broke our baseline analysis question down into more in depth questions below: 
+
+Did the volume of the amount of stock traded each day increase/decrease drastically when Elon tweeted? 
+
+What is the average change in stock price on a day when Elon Tweets? 
+
+Were there any other factors to take into consideration when looking at the stock during these tweet times? 
+
+What are the most used words that Elon tweets that causes stock price to drastically change the most? 
+
+Is there a specific relationship between Elon Musk’s tweets and the stock price? 
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to our Prof Mike Colbert for his technical assists during this project
 
