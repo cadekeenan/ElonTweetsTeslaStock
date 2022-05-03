@@ -37,7 +37,7 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 
 ## Usage
 See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
-**MUST HAVE TSLA (2).csv DOWNLOADED**
+**MUST HAVE TSLA.csv DOWNLOADED**
 
 ## Acknowledgements
 - Many thanks to our Prof Mike Colbert for his technical assists during this project, as well as Elon Musk for providing the Tweets.
