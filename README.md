@@ -30,6 +30,11 @@ Is there a specific relationship between Elon Musk’s tweets and the stock pric
 - R - v2022.02.2+485
 - RStudio - v2022.02.2+485
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
 ## Usage
 See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage 
 
