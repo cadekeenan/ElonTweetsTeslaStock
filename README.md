@@ -40,7 +40,7 @@ See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usag
 ## Contact
 Created by [@cadekeenan] <br>
 Created by [@immcsorley] <br>
-Created by [@immcsorley] <br>
-Created by [@immcsorley] <br>
+Created by [@timcookk] <br>
+
 
 (https://cadekeenan.me/pages-contact-me-v1.html) - feel free to contact me!
