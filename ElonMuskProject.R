@@ -1,6 +1,5 @@
 rm(list=ls())
 
-Sys.setenv(BEARER_TOKEN= 'AAAAAAAAAAAAAAAAAAAAAP%2FybAEAAAAAgTaXRyY2%2Fgdmxk4o%2BLOcr4ba7TI%3DgAeYLwqGaq3Z39Yz2o4Bk1wqF1LOHHJWzMkpdZO4VzdFQFfQTk')
 library(httr)
 library(jsonlite)
 library(dplyr)
@@ -13,12 +12,6 @@ tesla$created <- as.Date(tesla$Date,
                        format = "%m/%d/%Y")
 
 appname<-"Elon v3"
-key<-'1I6DdpphjUlAEDT3B4RN3qmYQ'
-secret<-'ri127qTOCggRdWuEEOYgiF1qb2toDt5pglCIStz8q3yhSYShqW'
-access_token<-'1169664618639319041-vcyxyLZRaxntq5CngKreGVE6rWOh1m'
-access_secret<-'bsWqdKFm1n7IFVP33TB9lD3irdfIFWuX07ukTLKfJQTPY'
-setup_twitter_oauth(key, secret, access_token, access_secret)
-
 
 ?userTimeline # Return timeline of user's tweets, retweets, and replies
 musk_tweets<-userTimeline('elonmusk', # User
