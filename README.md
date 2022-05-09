@@ -1,6 +1,7 @@
 # ElonTweetsTeslaStock
 If you follow technology, entrepreneurship, or space exploration, you more recently may have been introduced to Tesla, or its CEO Elon Musk. Following Musk in the news, you might have noticed the pioneering capitalist tweets out whatever comes to his mind at a given moment. May it be regarding his own companies, geo-politics, cryptocurrencies, and the occasional witty meme. Some of these tweets have come back to bite him in the form of large sellouts of Tesla shares. A fortune.com article shared that one single tweet from Musk on November 6, 2021, about selling a portion of his Tesla shares sent Tesla stock price plummeting by 7.3% in one day (Vercoe, 2021). 
 
+![](Elon.jpg)
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -31,14 +32,12 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 - RStudio - v2022.02.2+485
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png) <br>
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+
 
 ## Usage
-See 'ElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
-**TSLA.CSV _________
-
+See 'FinalElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
+**TSLA2.xls MUST BE DOWNLOADED AS WELL AS TWITTER DEVELOPER ACCESS KEYS IN ORDER TO PROPERLY RUN
 ## Acknowledgements
 - Many thanks to our Prof Mike Colbert for his technical assists during this project, as well as Elon Musk for providing the Tweets.
 
