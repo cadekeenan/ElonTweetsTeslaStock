@@ -32,11 +32,11 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 - RStudio - v2022.02.2+485
 
 ## Screenshots
-![](Elon1.png)
-![](Elon2.png)
-![](Elon3.png)
-![](Elon4.png)
-![](Elon5.png)
+![] (Elon1.png)
+![] (Elon2.png)
+![] (Elon3.png)
+![] (Elon4.png)
+![] (Elon5.png)
 
 ## Usage
 See 'FinalElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
