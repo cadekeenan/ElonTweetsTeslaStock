@@ -32,12 +32,13 @@ If you follow technology, entrepreneurship, or space exploration, you more recen
 - RStudio - v2022.02.2+485
 
 ## Screenshots
-![](Elon1.png)
-![](Elon2.png)
-![](Elon3.png)
-![](Elon4.png)
-![](Elon5.png)
-
+We created these visualzations in R in order to see if there could be any correlations <br/>
+<br/>
+![Screenshot 2022-05-05 180159](https://user-images.githubusercontent.com/90923213/167041005-55d82575-7868-4768-89b6-fed7b977b327.png)
+![Screenshot 2022-05-05 180257](https://user-images.githubusercontent.com/90923213/167041006-7363458b-69f5-4674-950d-98f19c3703bb.png)
+![Screenshot 2022-05-05 180240](https://user-images.githubusercontent.com/90923213/167041008-da385c8d-16e1-4271-b6bc-0de18c93bb4b.png)
+![Screenshot 2022-05-05 180228](https://user-images.githubusercontent.com/90923213/167041009-eeafd5bd-2787-473f-b806-edaac6d7016a.png)
+![Screenshot 2022-05-05 180216](https://user-images.githubusercontent.com/90923213/167041010-2824beac-2e93-49a8-b267-975af0fab4f9.png)
 ## Usage
 See 'FinalElonMuskProject.R' in 'Code' to see our entire R file with comments on usage <br>
 **TSLA2.xls MUST BE DOWNLOADED AS WELL AS TWITTER DEVELOPER ACCESS KEYS IN ORDER TO PROPERLY RUN
